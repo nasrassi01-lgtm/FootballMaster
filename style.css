@@ -1,0 +1,43 @@
+/* Hele hjemmesiden */
+body {
+    background-color: #10281f;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding-top: 120px;
+}
+
+/* Spillets overskrift */
+h1 {
+    font-size: 55px;
+    color: #f4c542;
+}
+
+/* Underoverskrift */
+h2 {
+    font-size: 28px;
+}
+
+/* Almindelig tekst */
+p {
+    font-size: 20px;
+    margin: 25px;
+}
+
+/* Startknappen */
+button {
+    background-color: #f4c542;
+    color: #10281f;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* Når musen er over knappen */
+button:hover {
+    background-color: #ffe27a;
+}
